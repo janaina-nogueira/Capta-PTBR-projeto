@@ -4,6 +4,3 @@ downloads/
 .venv/
 venv/
 
-# pesos grandes - temporariamente fora da versão de validação
-*.safetensors
-*.bin
